@@ -45,8 +45,8 @@ The system employs a sophisticated multi-layer architecture with:
 ## Getting Started
 
 ### Prerequisites
-- Python 3.7+
-- PyTorch
+- Python 3.10+
+- Tensorflow keras
 - NumPy
 - Matplotlib
 - Jupyter Notebook
