@@ -41,7 +41,7 @@ The system employs a sophisticated multi-layer architecture with:
 - Behavioral correlation studies
 - Performance metrics and visualizations
 - Results stored in `Results-Analysis/`
-
+![Topoplot Comparison](Figures/Fig3.png)
 ## Getting Started
 
 ### Prerequisites
