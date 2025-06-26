@@ -62,6 +62,9 @@ cd cDONN
 2. Run training scripts from `Training Code/` directory
 3. Analyze results using notebooks in `Results-Analysis/`
 
+## Data
+The dataset used in the study is available in the hf repo Sap27/cDONN
+
 ## Training
 
 The training process involves:
